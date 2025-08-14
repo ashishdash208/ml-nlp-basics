@@ -18,7 +18,7 @@ This repository contains solutions for Section-B of Week 2 Assignment, using Pan
     pip install -r requirements.txt
 
 4. Run any file using: 
-    python <filename>.py
+    python {filename}.py
 
 ## Notes
 
