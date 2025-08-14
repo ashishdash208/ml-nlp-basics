@@ -61,4 +61,4 @@ plt.ylabel("Average Alcohol Content")
 plt.savefig("outputs/bar_avg_alcohol_problem_1.png")
 plt.close()
 
-print("\nPlots saved as 'hist_alcohol.png' and 'bar_avg_alcohol.png'")
+print("\nPlots saved as 'hist_alcohol_problem_1.png' and 'bar_avg_alcohol_problem_1.png' in the outputs folder")
